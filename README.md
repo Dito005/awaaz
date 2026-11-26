@@ -10,14 +10,28 @@ Speak, and it writes. Open an email, and it reads it to you, in English or Urdu.
 - Replies go in above your Gmail signature, so your signature stays as it is.
 - Nothing to sign up for and no keys to enter. It just works.
 
-## Download
+## Install (1 minute)
 
-**[Download Awaaz.dmg](https://github.com/Dito005/awaaz/releases/latest/download/Awaaz.dmg)** (macOS 13 Ventura or newer, Apple silicon and Intel)
+### Easiest: one line in Terminal
+1. Open **Terminal**: press **⌘ Command + Space**, type **Terminal**, press **Return**.
+2. Copy this line, paste it into Terminal, and press **Return**:
 
-## Install
+```bash
+curl -fsSL https://raw.githubusercontent.com/Dito005/awaaz/main/install.sh | bash
+```
 
-1. Open **Awaaz.dmg** and drag **Awaaz** onto **Applications**.
-2. Open Awaaz from Applications. The first time, macOS says it can't check the developer: click **Done**, then open **System Settings → Privacy & Security**, scroll down and click **Open Anyway**.
-3. Awaaz walks you through the rest with big buttons: allow the microphone, drag the Awaaz icon into the Accessibility list, pick your browser and click **Add to Gmail**. Awaaz switches the browser setting on by itself (Chrome may restart once; your tabs come back). Click **OK** when your Mac asks if Awaaz may control your browser.
+That's it. Awaaz downloads, goes into your Applications folder and opens, with no warning boxes.
+The welcome guide takes over from there: allow the microphone, drag the Awaaz icon into the list, and click **Add to Gmail**.
+
+### Or: download the app yourself
+1. **[Download Awaaz.dmg](https://github.com/Dito005/awaaz/releases/latest/download/Awaaz.dmg)** and open it.
+2. Drag **Awaaz** onto **Applications**, then open Awaaz from Applications.
+3. If your Mac says **"Awaaz Not Opened… Apple could not verify"**, that's normal for apps from outside the App Store:
+   1. Click **Done**.
+   2. Open **System Settings → Privacy & Security**.
+   3. Scroll down to **"Awaaz was blocked…"** and click **Open Anyway**.
+   4. Enter your Mac password and click **Open**. You only do this once.
+
+Works on macOS 13 Ventura or newer, Apple silicon and Intel.
 
 Awaaz starts by itself every time you turn on your Mac.
