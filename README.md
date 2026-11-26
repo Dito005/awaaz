@@ -3,7 +3,8 @@
 Speak, and it writes. Open an email, and it reads it to you, in English or Urdu.
 
 - **Speak button** at the bottom of your screen: click, talk in Urdu, English or both, click ✓. Your words appear in a card. Tap **Polish** for a neat version, pick a language, then **Paste**.
-- **Inside Gmail** (Chrome, Safari, Edge, Brave or Arc): **Read aloud** with an English / اردو picker, **Reply by voice**, and a **Speak** button in every reply box.
+- **Inside Gmail** (Chrome, Safari, Edge, Brave or Arc): on every message, even collapsed ones, **Read aloud** (shows which language is the original and which is translated) and **Reply by voice**. Say what you want; Awaaz reads the whole thread, writes a proper reply and puts it in the reply box, ready for you to edit and send.
+- Fast: words appear while you talk, and the finished email is ready about a second and a half after you stop.
 - Works everywhere else too: Outlook, Word, WhatsApp, Safari. Shortcut ⌃⌥Space.
 - Writes a proper email in Gmail and Mail, and a short text in WhatsApp and Messages. Learns your style from your edits and your own sent emails.
 - Replies go in above your Gmail signature, so your signature stays as it is.
